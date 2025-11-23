@@ -2,9 +2,13 @@
 
 A real-time water quality monitoring and automated control system for aquaculture, built with Arduino and Blynk IoT platform.
 
-## Authors
+This was a 4-1 group project completed as part of the **EEE416: Microprocessor and Embedded Systems Laboratory** course at Bangladesh University of Engineering and Technology (BUET).
+
+## Team Members
 - **Khalid Hossain** - Hardware integration, IoT implementation
 - **Soumik Saha** - Sensor calibration, control algorithms
+- **Sayba Kamal Orni** - Blynk cloud integration
+- **Adib As-Ad Tonmoy** - System testing and validation
 
 ## Features
 - **Real-time Monitoring**: Temperature, pH, and turbidity measurements
@@ -88,4 +92,4 @@ Run `sensor_calibration.m` in MATLAB to visualize sensor response curves:
 This project is open-source and available for educational purposes.
 
 ## Acknowledgments
-Developed as part of the Microcontroller course project at Bangladesh University of Engineering and Technology (BUET).
+Developed as part of EEE416: Microprocessor and Embedded Systems Laboratory (Level 4, Term 1) at Bangladesh University of Engineering and Technology (BUET).
